@@ -1,6 +1,3 @@
-
-<div align="center">
-
 # 🚁 EdgeEye | 엣지아이
 
 ### 경량 VLM 기반 비정형 객체 탐지 및 상황 해설 시스템
